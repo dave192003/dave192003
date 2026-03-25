@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with my BIG project<br>🌱 I’m currently learning Web Development
 
-## Full stack Developer 
+# Full stack Developer 
 
 
 ## 🌐 Socials:
