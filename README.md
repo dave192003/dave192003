@@ -25,45 +25,10 @@
 
 # 💻 Tech Stack:
 
-### 🧠 Programming Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-
----
-
-### 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-
----
-
-### ⚙️ Backend / Frameworks
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic\&logo=.net\&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic\&logo=javafx\&logoColor=white)
-
----
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
-
----
-
-### 🎮 Game Development
-
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic\&logo=godot-engine)
-![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=plastic\&logo=raylib\&logoColor=black)
-
----
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.)
 
 
 ---
