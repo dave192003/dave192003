@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with my BIG project<br>🌱 I’m currently learning Web Development
 
+## Full stack Developer 
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lebicodavedarylpajares09@gmail.com) 
