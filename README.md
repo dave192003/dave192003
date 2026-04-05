@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dave192003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dave192003&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=dave192003&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=dave192003&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)tokyonight&hide_border=true)
 
 ---
 
