@@ -43,13 +43,13 @@
 
 ![Streak](https://streak-stats.demolab.com?user=dave192003&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dave192003&theme=tokyonight&no-frame=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dave192003&theme=tokyonight&no-frame=true&margin-w=10)](https://github-profile-trophy-git-master-rjdp.vercel.app/?username=dave192003)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 👀 Profile Views
 
-![Visitors](https://visitcount.itsvg.in/api?id=dave192003&icon=5&color=6)
+![Visitors](https://komarev.com/ghpvc/?username=dave192003&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
