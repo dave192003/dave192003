@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Dave Lebico (You can call me "Dev")
 
 💻 Aspiring **Full Stack Developer**  
+
 🚀 Passionate about building web apps and systems  
-🌱 Currently learning **Web Development html, css, and javascript** 
+
+🌱 Currently learning **Web Development HTML, CSS , and JAVASCRIPT**
+
 🚀 Next target to study are **( REACT for front end and JAVA as an backend) for my planned big project)**
 
 ---
