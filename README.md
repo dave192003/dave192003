@@ -6,9 +6,7 @@
 
 🌱 Currently learning **Web Development HTML, CSS , and JAVASCRIPT**
 
-🚀 Next target to study are **( REACT for front end and JAVA as an backend) for my planned big project)**
-
----
+🚀 My next learning goals are **React** for frontend development and **Java** for backend development, in preparation for my planned large-scale project
 
 ## 🚀 About Me
 
