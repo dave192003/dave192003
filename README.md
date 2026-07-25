@@ -61,13 +61,14 @@
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Project
 
-- 🔹 Simple-Game (Java)  
-- 🔹 Coin-Addict-Game (Java)  
-- 🔹 Enrollment System  
-- 🔹 Personal Portfolio  
+### 🌐 Website
 
+| Project | Description | Tech Stack | Repository | Link | Status |
+| --- | --- | --- | --- | --- | --- |
+| **ID-Oto** | ID-Oto is an n8n automation workflow designed to automate the processing of ID photos, reducing manual editing time and the preparation of print-ready ID pictures. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | [ID-Oto](https://github.com/dave192003/ID-Oto) | [Link](https://github.com/dave192003/ID-Oto) | Deployed (Debugging) |
+---
 ---
 
 ## 👀 Profile Views
