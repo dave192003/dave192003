@@ -33,9 +33,7 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,6 +47,11 @@
 ![Streak](https://streak-stats.demolab.com?user=dave192003&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📊 Activity & Statistics
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dave192003&theme=tokyo-night)](https://github.com/dave192003)
+
+
 
 ---
 
