@@ -42,14 +42,12 @@ My next learning goals are **React** for frontend development and **Java** for b
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dave192003&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ![Streak](https://streak-stats.demolab.com?user=dave192003&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dave192003&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📊 Activity & Statistics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dave192003&theme=tokyo-night)](https://github.com/dave192003)
+
 
 ---
 
