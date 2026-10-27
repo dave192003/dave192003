@@ -2,7 +2,7 @@
 
 Aspiring **Full Stack Developer** passionate about building web applications and systems.
 
-Currently learning **HTML, CSS, and JavaScript**, with plans to deepen my knowledge of **React** for frontend development and **Java** for backend development as I prepare to build larger-scale applications.
+Deepening my knowledge on **React** framework for frontend development and **Java** for backend development as I prepare to build larger-scale applications.
 
 ---
 
@@ -19,7 +19,6 @@ Currently learning **HTML, CSS, and JavaScript**, with plans to deepen my knowle
 ## Connect With Me
 
 - **Email:** [lebicodavedarylpajares09@gmail.com](mailto:lebicodavedarylpajares09@gmail.com)
-- **GitHub:** [@dave192003](https://github.com/dave192003)
 
 ---
 
@@ -53,7 +52,7 @@ Currently learning **HTML, CSS, and JavaScript**, with plans to deepen my knowle
 
 | Project | Description | Technologies | Status |
 |---|---|---|---|
-| **[ID-Oto](https://github.com/dave192003/ID-Oto)** | A full-stack ID photo automation system that removes image backgrounds, enhances photo quality using a Mamdani Fuzzy Inference System, crops photos to standard ID dimensions, and arranges multiple copies into print-ready layouts. | Python, Flask, HTML, CSS, JavaScript, Docker | 🚧 New Version in Development |
+| **[ID-Oto](https://github.com/dave192003/ID-Oto)** | A full-stack ID photo automation system that removes image backgrounds, enhances photo quality using a Mamdani Fuzzy Inference System, crops photos to standard ID dimensions, and arranges multiple copies into print-ready layouts. | Python, Flask, HTML, CSS, JavaScript, Docker | 🚧 Currently migrating into SPA |
 | **[GDL — Guhit Dave Lebico](https://github.com/dave192003/GDL)** | A personal website showcasing my creativity, web development skills, and personal projects. | HTML, CSS, JavaScript | 🚧 In Development |
 
 ### 🔍 Project Highlights
